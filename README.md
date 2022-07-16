@@ -1,6 +1,6 @@
 # JARVIS_ASSISTANT :star_struck: :open_mouth: :running: :star2:
 
-[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-random-red)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-random-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/pyttsx3-module-success)](https://shields.io/)[![Generic badge](https://img.shields.io/badge/module-pygame-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/google-automation-ff69b4)](https://shields.io/) 
 <br>
 
 ***This new Jarvis Virtual Assistant using Python is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
