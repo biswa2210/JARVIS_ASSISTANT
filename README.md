@@ -1,6 +1,6 @@
 # JARVIS_ASSISTANT :star_struck: :open_mouth: :running: :star2:
 
-[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-random-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-time-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-datetime-orange)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-random-red)](https://shields.io/) 
 <br>
 
 ***This new Jarvis Virtual Assistant using Python is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
@@ -20,7 +20,7 @@
 
 <div align="justified">
     
-Jarvis is a virtual assistant. 
+Jarvis is a voice assistant created using Python. It can find anything instructed by us in internet and present it. It listens out voice recognizes and works.
  
 </div>
 
@@ -35,7 +35,11 @@ JARVIS
 
 <div align="center">
     
-<a href=""><img src="" width="400" height= "280"></a> <a href=""><img src="" width="400" height= "280"></a>
+<a href="j1.png"><img src="j1.png" width="800" height= "450"></a>
+
+<a href="j2.png"><img src="j2.png" width="800" height= "450"></a>
+
+<a href="j3.png"><img src="j3.png" width="800" height= "450"></a>
 
 </div>
 
